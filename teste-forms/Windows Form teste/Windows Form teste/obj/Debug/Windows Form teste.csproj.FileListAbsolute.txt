@@ -1,0 +1,19 @@
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Windows Form teste.exe.config
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\obj\Debug\Windows Form teste.csprojResolveAssemblyReference.cache
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\obj\Debug\Windows_Form_teste.Form1.resources
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\obj\Debug\Windows_Form_teste.Properties.Resources.resources
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\obj\Debug\Windows Form teste.csproj.GenerateResource.Cache
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Windows Form teste.exe
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Windows Form teste.pdb
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\obj\Debug\Windows Form teste.exe
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\obj\Debug\Windows Form teste.pdb
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Nest.dll
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Nest.JsonNetSerializer.dll
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Nest.xml
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Nest.JsonNetSerializer.xml
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Aspose.Cells.dll
+C:\Users\Magno\Documents\teste\teste-forms\Windows Form teste\Windows Form teste\bin\Debug\Aspose.Cells.xml
